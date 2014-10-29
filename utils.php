@@ -1,4 +1,7 @@
 <?php
+
+namespace Pimf;
+
 /**
  * Return the value of the given item.
  * If the given item is a Closure the result of the Closure will be returned.
